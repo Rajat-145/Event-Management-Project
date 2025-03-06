@@ -1,4 +1,3 @@
-```markdown
 # Event Management System
 
 ## 📌 Project Overview
@@ -24,7 +23,7 @@ The **Event Management System** is a web-based application that allows users to 
    git clone https://github.com/Rajat-145/Event-Management-Project.git
    cd event-management
    ```
-2. **Create a virtual environment & activate it**
+2.  **Create a virtual environment & activate it**
    ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -47,16 +46,12 @@ The **Event Management System** is a web-based application that allows users to 
    ```
 
 ##  Requirements
+```
 Flask==3.0.0
 mysql-connector-python==8.2.0
-
+```
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
 ## 🤝 Contribution
 Feel free to fork the repository, create a branch, and submit a pull request!
-
----
-
-```
-
